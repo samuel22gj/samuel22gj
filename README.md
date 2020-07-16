@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I am Samuel 👋
 
 <!--
 **samuel22gj/samuel22gj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
